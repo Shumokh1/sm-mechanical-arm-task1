@@ -6,16 +6,11 @@
 Task1: Design a robotic arm
 This project showcases my beginning in 3D design and mechanics using Tinkercad. The design is a simple robotic arm with a gripper, aimed at demonstrating the basic principles of robotics and mechanical design.
 
-## Picture and Project Link
+## Picture and Tinkercad Link
+
 <img width="502" alt="Screen Shot 1446-01-08 at 12 39 11 AM" src="https://github.com/user-attachments/assets/4e2dc20a-f09d-433f-9642-6093224c5384">
+
 https://www.tinkercad.com/things/01sYefxxb2m-robot-arm/edit
-## Getting Started
-
-### Requirements
-
-- A Tinkercad account (free to sign up)
-- Basic understanding of the Tinkercad interface
-- Interest in 3D design and robotics
 
 
 ## Learning Outcomes
